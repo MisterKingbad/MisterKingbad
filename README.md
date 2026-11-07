@@ -28,6 +28,7 @@
 
 ## Guias
 
+- [Configuração completa do WSL2 com Ubuntu](https://github.com/MisterKingbad/wsl-ubuntu-dev-setup): instalação e configuração do ambiente de desenvolvimento com Ubuntu, Git, Pyenv, Python, Poetry, NVM, Node.js e SSH para GitHub.
 - [Cloudflare Tunnel no Ubuntu e WSL2](https://github.com/MisterKingbad/cloudflared-ubuntu-setup): como expor uma aplicação local à internet com HTTPS.
 - [Erro ao iniciar o Ubuntu no WSL2](https://github.com/MisterKingbad/solucao-do-problema-ao-iniciar-o-ubuntu-wsl2): como resolver a falha de inicialização ligada à virtualização.
 
